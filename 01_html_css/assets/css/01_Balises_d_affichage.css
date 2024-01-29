@@ -1,0 +1,32 @@
+/* Commentaire en CSS */
+/* Feuille de sytle */
+
+/* Syntaxe du langage de developpement CSS */
+
+/* 
+    selecteur {
+        propriété: valeur ;
+    }
+
+*/
+
+
+p {
+    color: #792a5b;
+}
+
+/* 
+    Les valeurs possibles pour les couleurs:
+        ->Notation hexadecimale : #ffffff (blanc)
+        ->notation hexadecimale courte : #fff
+        ->notation rgb(255, 255, 255) -> rouge vert bleu
+        ->notation rgba(255,255,255,0) -> le dernier chiffre correspond à l'opacité : entre 0 (transparent) et 1 (opaque)
+        -notation avec mots clés -> red, green, bleu ... 
+*/
+pre { color: rgb(106, 40, 89)
+}
+/*  Je sélectionne deux éléments en même temps avec une virgule */
+
+
+span {color: green;}
+
